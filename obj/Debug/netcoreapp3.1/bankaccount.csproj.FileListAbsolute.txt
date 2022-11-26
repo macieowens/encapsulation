@@ -1,0 +1,14 @@
+C:\Users\macie\repos\bankaccount\bin\Debug\netcoreapp3.1\bankaccount.exe
+C:\Users\macie\repos\bankaccount\bin\Debug\netcoreapp3.1\bankaccount.deps.json
+C:\Users\macie\repos\bankaccount\bin\Debug\netcoreapp3.1\bankaccount.runtimeconfig.json
+C:\Users\macie\repos\bankaccount\bin\Debug\netcoreapp3.1\bankaccount.runtimeconfig.dev.json
+C:\Users\macie\repos\bankaccount\bin\Debug\netcoreapp3.1\bankaccount.dll
+C:\Users\macie\repos\bankaccount\bin\Debug\netcoreapp3.1\bankaccount.pdb
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.csproj.AssemblyReference.cache
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.AssemblyInfoInputs.cache
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.AssemblyInfo.cs
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.csproj.CoreCompileInputs.cache
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.dll
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.pdb
+C:\Users\macie\repos\bankaccount\obj\Debug\netcoreapp3.1\bankaccount.genruntimeconfig.cache
